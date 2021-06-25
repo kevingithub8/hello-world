@@ -1,2 +1,4 @@
 # hello-world
-first repository on github 2021 06 23
+first repository on github 20210623.
+
+this is the first branch and commit practice 20210624.
